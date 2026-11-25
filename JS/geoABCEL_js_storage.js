@@ -43,6 +43,12 @@ const TBi = [
         B_id:"B-part-4",
         P_id:"part-4",
         txt:"Referências"
+
+},
+    {
+        B_id:"B-part-5",
+        P_id:"part-5",
+        txt:"Referências"
     }
 ]
 
